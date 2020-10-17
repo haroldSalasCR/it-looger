@@ -1,0 +1,54 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Workstation 008 not working",
+      "attention": true,
+      "date": "15-07-2020",
+      "tech": "Rojelio Rojas"
+    },
+    {
+      "id": 2,
+      "message": "Workstation 009 not posting",
+      "attention": false,
+      "date": "05-05-2020",
+      "tech": "Amalia Rojas"
+    },
+    {
+      "id": 3,
+      "message": "Workstation 010 not posting",
+      "attention": true,
+      "date": "05-11-2020",
+      "tech": "Rojelio Rojas"
+    },
+    {
+      "id": 4,
+      "message": "Workstation 001 not working",
+      "attention": false,
+      "date": "05-05-2020",
+      "tech": "Rocio Rojas"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Rojelio",
+      "lastName": "Rojas"
+    },
+    {
+      "id": 2,
+      "firstName": "Rocio",
+      "lastName": "Rojas"
+    },
+    {
+      "id": 3,
+      "firstName": "Amalia",
+      "lastName": "Rojas"
+    },
+    {
+      "fistName": "Pedro",
+      "lastName": "Mora",
+      "id": 4
+    }
+  ]
+}
