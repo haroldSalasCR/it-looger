@@ -27,6 +27,27 @@
       "attention": false,
       "date": "05-05-2020",
       "tech": "Rocio Rojas"
+    },
+    {
+      "message": "se despicho esta mierda... help!!!",
+      "attention": false,
+      "tech": "Amalia Rojas",
+      "date": "2020-10-23T00:22:50.533Z",
+      "id": 5
+    },
+    {
+      "message": "nueva compu que se quemo esta!!!",
+      "attention": true,
+      "tech": "Rojelio Rojas",
+      "date": "2020-10-23T00:24:28.205Z",
+      "id": 6
+    },
+    {
+      "message": "algo paso pero no tengo idea!!!",
+      "attention": false,
+      "tech": "Rocio Rojas",
+      "date": "2020-10-23T00:42:07.358Z",
+      "id": 7
     }
   ],
   "techs": [
